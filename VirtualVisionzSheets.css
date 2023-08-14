@@ -1,1 +1,9 @@
 *{font-family: 'Raleway', sans-serif;}
+
+#logo{
+
+    max-width: 50%;
+    height: auto;
+    border-radius: 50%;
+
+}
