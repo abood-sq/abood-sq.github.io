@@ -1,1 +1,59 @@
-*{font-family: 'Raleway', sans-serif;}
+*{
+
+    font-family: 'Raleway' sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+
+    text-align: center;
+
+}
+
+.wrapper{
+
+    width: 1170px;
+    margin: 0 auto;
+
+}
+
+header{
+
+    height: 100px;
+    background: #17144d;
+    width: 100%;
+    z-index: 12;
+    position: fixed;
+
+}
+
+.header-style{
+    width: 30%;
+    float: left;
+    line-height: 100px;
+    padding-left: 40px;
+}
+
+.header-style a{
+    text-decoration: none;
+    font-size: 40px;
+    font: bold;
+    font-family:'Trebuchet MS', sans-serif;
+    color: #676767;
+}
+
+nav{
+    float: right;
+    line-height: 100px;
+    padding-right: 40px;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family:'Trebuchet MS', sans-serif;
+    color: #676767;
+    margin: 0 10px;
+}
