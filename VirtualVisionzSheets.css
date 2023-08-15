@@ -30,3 +30,30 @@
     padding-left: 1rem;
     padding-top: 2rem;
 }
+
+#meetTeam{
+    background-color: #a7aab9;
+    text-align: center;
+}
+
+#head{
+    padding-top: 1rem;
+}
+
+#ibbyPic, #aboodPic, #musabPic{
+
+    border-radius: 50%;
+    margin-top: 1rem;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  #ibbyParagraph, #aboodParagraph, #musabParagraph{
+    background-color: #a7aab9;
+
+  }
