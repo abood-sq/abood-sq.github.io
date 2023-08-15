@@ -56,12 +56,35 @@ nav a{
     font-family:'Trebuchet MS', sans-serif;
     color: #676767;
     margin: 0 10px;
+* {
+    font-family: 'Raleway', sans-serif;
 }
 
-#logo{
+#companyInfo {
+    background-color: #d3d4dc;
+}
 
-    max-width: 50%;
+#logo {
+    max-width: 70%; /* Increased image size */
     height: auto;
     border-radius: 50%;
+    margin-top: 2rem; /* Adjust image position */
+    margin-bottom: 2rem;
+}
 
+#companyName {
+   
+    padding-bottom: 0.2rem;
+    padding-left: 1rem;
+}
+
+#companyAbout {
+    padding-top: 1rem;
+    padding-left: 1rem;
+    justify-content: center;
+}
+
+#companySlogan {
+    padding-left: 1rem;
+    padding-top: 2rem;
 }
